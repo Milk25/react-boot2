@@ -1,0 +1,20 @@
+.homepage-container {
+    background-color: #f8f9fa;
+    color: #343a40;
+    padding: 2rem;
+    border: 1px solid #dee2e6;
+    border-radius: 0.5rem;
+    justify-content: center;
+  }
+  
+  .welcome-text {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    justify-content: center;
+  }
+  
+  .shop-now-button {
+    padding: 0.75rem 1.5rem;
+    justify-content: center;
+  }
+  
